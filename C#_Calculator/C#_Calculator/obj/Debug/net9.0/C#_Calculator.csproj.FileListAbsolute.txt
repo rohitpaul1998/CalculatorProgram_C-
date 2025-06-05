@@ -1,0 +1,14 @@
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/bin/Debug/net9.0/C#_Calculator
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/bin/Debug/net9.0/C#_Calculator.deps.json
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/bin/Debug/net9.0/C#_Calculator.runtimeconfig.json
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/bin/Debug/net9.0/C#_Calculator.dll
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/bin/Debug/net9.0/C#_Calculator.pdb
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/obj/Debug/net9.0/C#_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/obj/Debug/net9.0/C#_Calculator.AssemblyInfoInputs.cache
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/obj/Debug/net9.0/C#_Calculator.AssemblyInfo.cs
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/obj/Debug/net9.0/C#_Calculator.csproj.CoreCompileInputs.cache
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/obj/Debug/net9.0/C#_Calculator.dll
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/obj/Debug/net9.0/refint/C#_Calculator.dll
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/obj/Debug/net9.0/C#_Calculator.pdb
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/obj/Debug/net9.0/C#_Calculator.genruntimeconfig.cache
+/Users/rohitpaul/Documents/C#_Calculator/C#_Calculator/obj/Debug/net9.0/ref/C#_Calculator.dll
